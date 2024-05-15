@@ -46,7 +46,11 @@ Hello Everyone,
  Useful Insights:
  
  ➡ Maximum sales are driven through COD(43%)and then Online(35%) payment mode.
+ 
  ➡ Maximum sales are from the Customer segment(48%) and then corporate(33%).
+ 
  ➡ Office supplies is the category that has the maximum sales.
+ 
  ➡ Most of the customers preferred standard class ship mode.
+ 
  ➡ Next 15 Days Forecast which is very useful business
